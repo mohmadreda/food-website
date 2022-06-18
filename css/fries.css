@@ -542,7 +542,7 @@ margin-top: 20px;
     max-width: 100%;
     border-radius: 10px;
     filter: grayscale(1);
-    transition: .3s;
+    transition: 1s;
 }
 .menu-item .item img:hover{
     filter: grayscale(0);
