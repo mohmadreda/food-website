@@ -216,6 +216,7 @@ header .links a{
     justify-content: center;
     transform: scaleY(0);
     transform-origin: top;
+z-index:1000;
     transition: .3s;
 }
 #search-form.active{
